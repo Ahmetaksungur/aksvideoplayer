@@ -206,26 +206,26 @@ $("#video").aksVideoPlayer({
 ```
 [Sample](https://github.com/Ahmetaksungur/aksfileupload/blob/master/LICENSE).
 
-### Context Menu
+### Attributes
 
 ```js
-          poster: "", 
-          width: 640,
-          height: 360,
-          rewind: true,
-          rewindValue: 10,
-          forward: false,
-          forwardValue: 10,
-          preview: true,
-          previewWidth: 140,
-          previewHeight: 95,
-          controller: true,
-          autoplay: false,
-          muted: true,
-          volume: 1,
-          loop: false,
-          playbackRate: ["0.25", "0.5", "0.75", "1", "1.25", "1.5", "1.75", "2"],
-          pictureinpicture: true,
+          poster: "", // picture telling the video
+          width: 640, // player width
+          height: 360, // player height
+          rewind: true, // video rewind button
+          rewindValue: 10, // video rewind second
+          forward: false, // video forward button
+          forwardValue: 10, // video forward second
+          preview: true, // previews of the video
+          previewWidth: 140, // previews width
+          previewHeight: 95, // previews height
+          controller: true, // video controller on off
+          autoplay: false, // video autoplay
+          muted: true, // video muted
+          volume: 1, // video volume start
+          loop: false, // loop the video
+          playbackRate: ["0.25", "0.5", "0.75", "1", "1.25", "1.5", "1.75", "2"], // playbackRate
+          pictureinpicture: true, // to watch when scroll scrolls down
           // language
           playbackRateLabel: "Playing Speed",
           captionsLabel: "Subtitles",
