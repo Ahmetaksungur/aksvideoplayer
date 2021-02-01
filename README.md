@@ -1,9 +1,7 @@
 # aksVideoPlayer.js
 Video Player
 
-![aksFileUpload.js-ahmet-aksungur](https://github.com/Ahmetaksungur/aksfileupload/blob/main/aksfileuplaod.gif?raw=true)
-
-**[View the Demo on CodePen &rarr;](https://codepen.io/collection/APgoJG)**
+**[View the Demo on CodePen &rarr;](https://codepen.io/collection/DPvrMq)**
 
 ## Getting Started
 
@@ -13,7 +11,7 @@ Compiled and production-ready code can be found in the `dist` directory.
 
 **Direct Download**
 
-You can [download the files directly from GitHub](https://github.com/Ahmetaksungur/aksfileupload/archive/main.zip).
+You can [download the files directly from GitHub](https://github.com/Ahmetaksungur/aksvideoplayer/archive/main.zip).
 
 ```html
 <link type="text/css" rel="stylesheet" href="dist/aksVideoPlayer.min.css">
@@ -26,20 +24,20 @@ You can [download the files directly from GitHub](https://github.com/Ahmetaksung
 **CDN**
 
 ```html
-<link type="text/css" rel="stylesheet" href="https://unpkg.com/aksfileupload@1.0.0/dist/aksFileUpload.min.css">
+<link type="text/css" rel="stylesheet" href="https://unpkg.com/aksfileupload@1.0.0/dist/aksVideoPlayer.min.css">
 ```
 
 ```html
-<script src="https://unpkg.com/aksfileupload@1.0.0/dist/aksFileUpload.min.js"></script>
+<script src="https://unpkg.com/aksfileupload@1.0.0/dist/aksVideoPlayer.min.js"></script>
 ```
 ---
 
 ```html
-<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aksfileupload@1.0.0/dist/aksFileUpload.min.css">
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aksfileupload@1.0.0/dist/aksVideoPlayer.min.css">
 ```
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/aksfileupload@1.0.0/dist/aksFileUpload.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aksfileupload@1.0.0/dist/aksVideoPlayer.min.js"></script>
 ```
 
 **jQuery**
@@ -52,7 +50,7 @@ You can [download the files directly from GitHub](https://github.com/Ahmetaksung
 **NPM**
 
 ```bash
-npm i aksfileupload
+npm i aksvideoplayer
 ```
 
 
@@ -95,7 +93,7 @@ $("#video").aksVideoPlayer({
 
 ### Captions
 
-```json
+```js
   captions: [
     {
       file: "videos/subtitle.en.vtt",
@@ -133,7 +131,7 @@ $("#video").aksVideoPlayer({
 <script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
 ```
 
-```json
+```js
   ads: [
     {
     type: "google",
@@ -170,7 +168,7 @@ $("#video").aksVideoPlayer({
 
 ### Context Menu
 
-```json
+```js
   contextMenu: [
     {
       type: "urlCopy",
@@ -210,7 +208,7 @@ $("#video").aksVideoPlayer({
 
 ### Context Menu
 
-```json
+```js
           poster: "", 
           width: 640,
           height: 360,
@@ -247,4 +245,4 @@ $("#video").aksVideoPlayer({
 
 ## License
 
-The code is available under the [MIT License](https://github.com/Ahmetaksungur/aksfileupload/blob/master/LICENSE).
+The code is available under the [MIT License](https://github.com/Ahmetaksungur/aksvideoplayer/blob/main/LICENSE).
