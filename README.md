@@ -89,7 +89,7 @@ $("#video").aksVideoPlayer({
   poster: "videos/poster.webp",
 });
 ```
-[Sample](https://github.com/Ahmetaksungur/aksfileupload/blob/master/LICENSE).
+[Sample](https://codepen.io/ahmetaksungur/pen/Jjbddem).
 
 ### Captions
 
@@ -121,7 +121,7 @@ $("#video").aksVideoPlayer({
     }
   ],
 ```
-[Sample](https://github.com/Ahmetaksungur/aksfileupload/blob/master/LICENSE).
+[Sample](https://codepen.io/ahmetaksungur/pen/jOVPbOw).
 
 ### Advertising
 
@@ -164,7 +164,7 @@ $("#video").aksVideoPlayer({
     }
   ],
 ```
-[Sample](https://github.com/Ahmetaksungur/aksfileupload/blob/master/LICENSE).
+[Sample](https://codepen.io/ahmetaksungur/pen/xxRGwGm).
 
 ### Context Menu
 
@@ -204,7 +204,7 @@ $("#video").aksVideoPlayer({
     }
   ],
 ```
-[Sample](https://github.com/Ahmetaksungur/aksfileupload/blob/master/LICENSE).
+[Sample](https://codepen.io/ahmetaksungur/details/OJbVyMR).
 
 ### Attributes
 
