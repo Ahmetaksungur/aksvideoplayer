@@ -1,0 +1,29 @@
+{
+  "name": "aksvideoplayer",
+  "version": "1.0.0",
+  "description": "Video Player",
+  "main": "dist/aksVideoPlayer.min.js",
+  "browser": "dist/aksVideoPlayer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmetaksungur/aksvideoplayer.git"
+  },
+  "keywords": [
+    "jquery video player",
+    "video player",
+    "video",
+    "player",
+    "subtitle",
+    "aks"
+  ],
+  "author": {
+  "name": "Ahmet Aksungur",
+  "url": "http://ahmetaksungur.com"
+},
+"homepage": "https://github.com/Ahmetaksungur/aksvideoplayer#readme",
+"license": "MIT"
+
+}
