@@ -24,20 +24,20 @@ You can [download the files directly from GitHub](https://github.com/Ahmetaksung
 **CDN**
 
 ```html
-<link type="text/css" rel="stylesheet" href="https://unpkg.com/aksfileupload@1.0.0/dist/aksVideoPlayer.min.css">
+<link type="text/css" rel="stylesheet" href="https://unpkg.com/aksvideoplayer@1.0.0/dist/aksVideoPlayer.min.css">
 ```
 
 ```html
-<script src="https://unpkg.com/aksfileupload@1.0.0/dist/aksVideoPlayer.min.js"></script>
+<script src="https://unpkg.com/aksvideoplayer@1.0.0/dist/aksVideoPlayer.min.js"></script>
 ```
 ---
 
 ```html
-<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aksfileupload@1.0.0/dist/aksVideoPlayer.min.css">
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aksvideoplayer@1.0.0/dist/aksVideoPlayer.min.css">
 ```
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/aksfileupload@1.0.0/dist/aksVideoPlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aksvideoplayer@1.0.0/dist/aksVideoPlayer.min.js"></script>
 ```
 
 **jQuery**
