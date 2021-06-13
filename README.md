@@ -161,6 +161,11 @@ $("#video").aksVideoPlayer({
       link: "http://adsurl.com/",
       time: "01:35",
       adstimer: "6"
+    },
+    {
+      type: "html",
+      html : '<div class="class-name"><img src="" style=""/>Ads Code</div>',
+      time: "00:10"
     }
   ],
 ```
